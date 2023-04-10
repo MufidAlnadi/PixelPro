@@ -21,22 +21,22 @@
 
 ### Live code of the website : 
 
-* [Live Code](https://bashar-alamoush.github.io/Organization/) .
+* [Live Code](https://bashar-alamoush.github.io/Organization/)
 
 
 
 ### The mouckup and wireframe "Figma" :
 
-+ [Mouckup and Wireframe](https://www.figma.com/file/pgVMvWsiZ1bxvDCqm2uXJg/Untitled?node-id=0-1&t=urLG5bMQtyozx5qm-0) .
++ [Mouckup and Wireframe](https://www.figma.com/file/pgVMvWsiZ1bxvDCqm2uXJg/Untitled?node-id=0-1&t=urLG5bMQtyozx5qm-0)
 
 
 
 ### Organization Link :
 
-+ [Organization Repository](https://github.com/Bashar-AlAmoush/Organization) .
++ [Organization Repository](https://github.com/Bashar-AlAmoush/Organization)
 
 
 
 ### Trello Link :
 
-+ [Trello ](https://trello.com/b/U8FWfwHG/organization) .
++ [Trello ](https://trello.com/b/U8FWfwHG/organization)
