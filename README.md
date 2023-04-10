@@ -1,24 +1,12 @@
 # PixelProQuiz
 
-#### Pixel Pro Company Quiz It is a quiz website that tests candidates to find out their level and skills, and evaluates their knowledge of a specific position through a set of questions related to it.
+### This repository is dedicated to the Front-End Quiz, a resource designed to test and improve your knowledge of HTML, CSS, and JavaScript - the core technologies of front-end web development.
 
 
-#### ### This repository is dedicated to the Front-End Quiz, a resource designed to test and improve your knowledge of HTML, CSS, and JavaScript - the core technologies of front-end web development.
-
-
-
-#### The website required to build dynamic registration , login , home, quiz , and result pages.
+### The quiz consists of multiple choice questions and covers topics such as HTML tags and attributes, CSS selectors and properties, JavaScript syntax and functions, and more. Whether you're a beginner or an experienced developer, this quiz is a great way to challenge yourself and enhance your skills.
 
 
 
-##### Our Team
-
-+ Bashar AlAmoush-s
-+ Razan Aboushi -p
-+ Add Alrahman al-zero
-+ Hamzeh Dawahreh 
-+ Malak Alfarwan 
-+ Mufeed alnadi
 
 ### The technologies used :
 
@@ -28,6 +16,8 @@
 + Bootstrap .
 + Figma .
 + Trello .
+
+## Links
 
 ### Live code of the website : 
 
