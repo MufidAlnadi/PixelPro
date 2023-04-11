@@ -36,8 +36,7 @@ body {
 }
 .navbar-nav li a:hover,
 .navbar-nav li.active a {
-  color: black !important;
-  background-color: white !important;
+  color: rgb(47, 157, 201) !important;
   border-radius: 5px !important;
   padding: 5px;
 }
@@ -48,6 +47,7 @@ body {
 .cont {
   display: flex;
   justify-content: center;
+  align-items: center;
   position: relative;
   top: 3rem;
 }
@@ -86,13 +86,12 @@ td {
   justify-content: center;
   margin-top: 7rem;
 }
-#submit {
+/* #submit {
   padding: 3px;
   background-color: #031b3b;
   box-shadow: 1px 1px 3px 1px;
-  border-radius: 5px;
   color: white;
-}
+} */
 #submit:hover {
   background-color: white;
   color: black;
@@ -187,16 +186,22 @@ td {
   background-color: #007bff;
 }
 
-#next-button {
-  background-color: #007bff;
-  color: #fff;
-  border-radius: 5px;
-  padding: 10px 20px;
-  font-weight: bold;
-  border: none;
-  cursor: pointer;
+h6{
+  text-align: start;
+  padding: 1.5%;
 }
 
-#next-button:hover {
-  background-color: #0069d9;
-}
+
+
+
+
+
+
+
+
+
+
+
+/* button:active {
+  background: linear-gradient(32deg,#03a9f4,#f441a5,#ffeb3b,#03a9f4);
+} */
